@@ -1,0 +1,22 @@
+.my {
+  color: white;
+}
+.cloud {
+  color: rgb(57, 218, 230);
+}
+h1 {
+  background-color: black;
+}
+
+h2 {
+  background-color: rebeccapurple;
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+h3 {
+  background-color: rgb(111, 165, 235);
+  text-align: right;
+  text-decoration: underline;
+}
